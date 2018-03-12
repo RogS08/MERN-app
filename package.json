@@ -1,0 +1,27 @@
+{
+  "name": "expressnodecrud",
+  "version": "1.0.0",
+  "description": "MongoDB-Express-Angular-Node-build",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RogS08/MongoDB-Express-Angular-Node-build_01.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "Mongo"
+  ],
+  "author": "Steven Rogiers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RogS08/MongoDB-Express-Angular-Node-build_01/issues"
+  },
+  "homepage": "https://github.com/RogS08/MongoDB-Express-Angular-Node-build_01#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
